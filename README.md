@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Michał Firek.
+My name is Michał.
 
 
 
