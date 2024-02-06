@@ -5,7 +5,15 @@ My name is Michał Firek.
 
 My another profiles:
 
-[<img src="https://www.codewars.com/users/Binzik/badges/large">]([https://www.codewars.com/users/Binzik/badges/large](https://www.codewars.com/users/Binzik))
+[<img src="https://www.codewars.com/users/Binzik/badges/large">](https://www.codewars.com/users/Binzik)
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>
 
 <!--
 [<img src="https://github.com/binzik/binzik/assets/83313785/baab6f31-42b2-47a3-b799-e0050f3da344">](https://www.codewars.com/users/Binzik/badges/large)
