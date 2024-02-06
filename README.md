@@ -21,6 +21,7 @@ My name is Michał Firek.
 </p>
 
 You can also find me there:
+
 [<img src="https://www.codewars.com/users/Binzik/badges/large">](https://www.codewars.com/users/Binzik)
 
 <!--
