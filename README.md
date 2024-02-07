@@ -7,7 +7,7 @@ My name is Michał.
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="left"> 
   <h1 align="left"> Languages:</h1>
@@ -23,6 +23,18 @@ My name is Michał.
 You can also find me there:
 
 [<img src="https://www.codewars.com/users/Binzik/badges/large">](https://www.codewars.com/users/Binzik)
+
+
+<h2 align="center">What I would like to learn in the future:</h2>
+
+<p align="left"> 
+  <h1 align="left"> Databases:</h1>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <h1 align="left"> Mobile:</h1>
+  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
+</p>
+
 
 <!--
 [<img src="https://github.com/binzik/binzik/assets/83313785/baab6f31-42b2-47a3-b799-e0050f3da344">](https://www.codewars.com/users/Binzik/badges/large)
