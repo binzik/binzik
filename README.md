@@ -25,7 +25,7 @@ You can also find me there:
 [<img src="https://www.codewars.com/users/Binzik/badges/large">](https://www.codewars.com/users/Binzik)
 
 
-<h2 align="center">What I would like to learn in the future:</h2>
+<h2 align="center">To learn in the future:</h2>
 
 <p align="left"> 
   <h1 align="left"> Databases:</h1>
