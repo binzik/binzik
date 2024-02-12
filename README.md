@@ -2,7 +2,9 @@
 
 My name is Michał.
 
+About me:
 
+I'm a beginner .Net programmer. For now, I'm learning how to write code, but my dream and goal is to become a developer, at least at the mid-senior level. To achieve this, I first need to learn how to code and find a job in this field. Currently, I work for YOFC Poland, a company that produces fiber optic cables, as an IT Specialist.
 
 
 
