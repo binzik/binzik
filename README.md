@@ -29,10 +29,10 @@ You can also find me there:
 [<img src="https://www.codewars.com/users/Binzik/badges/large">](https://www.codewars.com/users/Binzik)
 
 
-<h2 align="center">To learn in the future:</h2>
+<!-- <h2 align="center">To learn in the future:</h2> -->
 
 <p align="left"> 
-  <h1 align="left"> Databases:</h1>
+  <h2 align="center">To learn in the future:</h2>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <!--   <h1 align="left"> Mobile:</h1>
